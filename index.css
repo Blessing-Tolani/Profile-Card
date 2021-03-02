@@ -49,7 +49,12 @@ body {
 .details-wrapper {
   text-align: center;
   
-  transform: translateY(-30%);
+  transform: translateY(-50%);
+}
+.card-top{
+  background-image: url(images/bg-pattern-card.svg);
+  background-size: cover;
+  height:140px;
 }
 .details {
   display: flex;
